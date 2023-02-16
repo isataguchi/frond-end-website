@@ -126,8 +126,15 @@ h3 {
   h1 {
     font-size: 48px;
   }
-
+  footer {
+    font-size: 12px;
+  }
   .photo-homepage {
     display: none;
   }
-}
+
+  .photo-about {
+    max-width: 100%;
+  }
+
+  
